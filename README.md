@@ -68,7 +68,7 @@ Clone the project repository to your local machine:
     
     ```bash
     git clone https://github.com/Alisha-alias/Real-Time_Data_Processing_System_for_Weather_Monitoring_with_Rollups_and_Aggregates.git
-    cd weather-monitoring-system
+    cd Real-Time_Data_Processing_System_for_Weather_Monitoring_with_Rollups_and_Aggregates
     
 ### **2. Set Up Virtual Environment**
 Create a Python virtual environment to manage dependencies:
